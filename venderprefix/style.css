@@ -1,0 +1,8 @@
+header {background-color:gray; text-align:center; }
+div {text-align:center;
+font-size: smaller;}
+img {
+    width: 50%;
+    margin: auto;
+    display: block
+}
